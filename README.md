@@ -6,9 +6,12 @@
 </h3>
 
 ### Integrantes:
+  <h3>
   -fabricio<br>
   -Gabriel<br>
   -Leonardo<br>
   -Luigi<br>
   -Marcos<br>
   -Thierry<br>
+  </h3>
+
