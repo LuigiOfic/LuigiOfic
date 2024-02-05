@@ -1,16 +1,14 @@
-### Olá sou o Luigi! 👋
+### Olá somos a equipe TechGear (TGE)! 👋
 
-<!--
-**LuigiOfic/LuigiOfic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  - 🔭 Esse semestre estaremos trabalhando no desenvolvimento do nosso Trabalho de Conclusão de Curso (TCC).<br>
+  - 🌱 Estudamos algumas linguagens de programação ao longo do curso, mas vamos desenvolver o TGE em reactscrypt
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 Hoje trabalho com desenvolvimento de app e site.
-- 🌱 Estou estudando reactscrypt
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Integrantes:
+  -fabricio<br>
+  -Gabriel<br>
+  -Leonardo<br>
+  -Luigi<br>
+  -Marcos<br>
+  -Thierry<br>
