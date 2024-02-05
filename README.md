@@ -1,1 +1,1 @@
-###Olá eu sou Luigi :EMOJICODE:  
+###Olá eu sou Luigi :wave: 
